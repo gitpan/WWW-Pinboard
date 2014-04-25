@@ -20,7 +20,7 @@ name: WWW-Pinboard
 provides:
   WWW::Pinboard:
     file: lib/WWW/Pinboard.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   DBI: '0'
   Getopt::Long: '0'
@@ -34,7 +34,7 @@ resources:
   bugtracker: https://github.com/doy/www-pinboard/issues
   homepage: http://metacpan.org/release/WWW-Pinboard
   repository: git://github.com/doy/www-pinboard.git
-version: '0.01'
+version: '0.02'
 x_Dist_Zilla:
   perl:
     version: '5.018002'

@@ -2,7 +2,7 @@ package WWW::Pinboard;
 BEGIN {
   $WWW::Pinboard::AUTHORITY = 'cpan:DOY';
 }
-$WWW::Pinboard::VERSION = '0.01';
+$WWW::Pinboard::VERSION = '0.02';
 use Moose;
 # ABSTRACT: https://pinboard.in/ API client
 
@@ -87,7 +87,7 @@ WWW::Pinboard - https://pinboard.in/ API client
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

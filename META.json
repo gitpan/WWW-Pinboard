@@ -53,7 +53,7 @@
    "provides" : {
       "WWW::Pinboard" : {
          "file" : "lib/WWW/Pinboard.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -68,7 +68,7 @@
          "web" : "https://github.com/doy/www-pinboard"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.018002"
